@@ -4,9 +4,7 @@
   "private": true,
   "description": "pages-test",
   "author": "Jhaines1988",
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
@@ -24,8 +22,8 @@
     "gatsby-plugin-sharp": "^4.24.0",
     "gatsby-source-filesystem": "^4.24.0",
     "gatsby-transformer-sharp": "^4.24.0",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
     "react-helmet": "^6.1.0"
   }
 }
